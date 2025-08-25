@@ -1,4 +1,3 @@
-
 # Importaciones
 from tamagochi import Tamagochi, fuego, electrico, agua
 from persona import Persona
